@@ -1,0 +1,23 @@
+{
+  "product_name": "EcoClean All-Purpose Cleaner",
+  "product_description": "EcoClean is a powerful, eco-friendly all-purpose cleaning solution. Made from 100% natural ingredients, it effectively cleans surfaces while being safe for your family and the environment. EcoClean works on multiple surfaces including countertops, floors, bathrooms, and kitchen appliances.",
+  "pricing_details": "500ml bottle: $9.99 ,1L bottle: $16.99,2L refill pack: $29.99,Subscription (1L bottle every month): $14.99/month,Bulk order (5 x 1L bottles): $74.99 (Save $10!)",
+  "faqs": [
+    {
+      "question": "",
+      "answer": ""
+    }
+  ],
+  "sales_script": "Keep it Short massage , understand the problem and then promote this product or sale the product as soon as possibale",
+  "tone": "Formal",
+  "language": "English ",
+  "purchase_link": "https://www.ecoclean-example.com/shop",
+  "product_demo_link": "https://www.ecoclean-example.com/demo-video",
+  "appointment_booking_link": "https://www.ecoclean-example.com/book-consultation",
+  "objections": [
+    {
+      "objection": "",
+      "response": ""
+    }
+  ]
+}
